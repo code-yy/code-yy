@@ -3,7 +3,7 @@
 Hi 👋 My name is yuto yoshino
 =============================
 
-Web and Mobile Developer
+Web Developer
 ------------------------
 
 *   🌍  I'm based in Japan
