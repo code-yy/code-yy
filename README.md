@@ -14,12 +14,14 @@ I started studying programming at the age of 19. Since I am not the type of pers
 * 🧠  I'm learning Node.js
 * ⚡  Loves soccer and anime
 
-<a href="https://www.twitter.com/codeyy_dev" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/codeyy_dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-</a>
-<a href="https://www.github.com/code-yy" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/code-yy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
+<div>
+  <a href="https://www.twitter.com/codeyy_dev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/codeyy_dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+  </a>
+  <a href="https://www.github.com/code-yy" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/code-yy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  </a>
+</div>
 
 <a href="https://github.com/code-yy" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-yy&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
