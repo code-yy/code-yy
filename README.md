@@ -1,6 +1,6 @@
 <!-- https://www.profileme.dev/ -->
 
-Hi 👋 My name is yuto yoshino
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yuto Yoshino
 =============================
 
 Web Developer
@@ -15,7 +15,10 @@ I started studying programming at the age of 19. Since I am not the type of pers
 * ⚡  Loves soccer and anime
 
 <a href="https://www.twitter.com/codeyy_dev" target="_blank" rel="noreferrer">
-  <imgsrc="https://img.shields.io/twitter/follow/codeyy_dev?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"/>
+  <img src="https://img.shields.io/twitter/follow/codeyy_dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+</a>
+<a href="https://www.github.com/code-yy" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/code-yy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
 <a href="https://github.com/code-yy" align="left">
@@ -56,6 +59,18 @@ I started studying programming at the age of 19. Since I am not the type of pers
   </a>
 </p>
 
+- #### Backend
+
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+</a>
+
 - #### Moblie  
   
 <p align="left">
@@ -66,15 +81,30 @@ I started studying programming at the age of 19. Since I am not the type of pers
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" />
   </a>
 </p>
+
+- #### Web3
+
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" />
+</a>
+<a href="https://metamask.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" />
+</a>
                     
 ### Socials
        
-<p align="left">                          
+<p align="left"> 
   <a href="https://www.github.com/code-yy" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>                        
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
+  </a>
   <a href="https://www.twitter.com/codeyy_dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a>
+  <a href="http://www.instagram.com/https://www.instagram.com/gourmet.2001/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a>
+  <a href="https://zenn.dev/yuto76/feed" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" />
   </a>
 </p>
 
