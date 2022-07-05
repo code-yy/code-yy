@@ -6,11 +6,14 @@ Hi 👋 My name is yuto yoshino
 Web Developer
 ------------------------
 
-*   🌍  I'm based in Japan
-*   ✉️  You can contact me at [codeyy021@gmail.com](mailto:codeyy021@gmail.com)
-*   🧠  I'm learning Node.js
-*   🤝  I'm open to collaborating on Interesting projects
-*   ⚡  I love soccer and anime!
+I started studying programming at the age of 19. Since I am not the type of person who can come up with groundbreaking ideas, I decided to be the one who can materialize my ideas, so I started programming.
+
+* 🌍  I'm based in Japan Hyogo
+* 🖥️  See my portfolio at [comming soon...](http://foo)
+* ✉️  You can contact me at [codeyy021@gmail.com](mailto:codeyy021@gmail.com)
+* 🧠  I'm learning Node.js
+* ⚡  Loves soccer and anime
+
 <a href="https://www.twitter.com/codeyy_dev" target="_blank" rel="noreferrer">
   <imgsrc="https://img.shields.io/twitter/follow/codeyy_dev?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"/>
 </a>
