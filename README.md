@@ -8,7 +8,7 @@ Web Developer
 
 *   🌍  I'm based in Japan
 *   ✉️  You can contact me at [codeyy021@gmail.com](mailto:codeyy021@gmail.com)
-*   🧠  I'm learning Flutter
+*   🧠  I'm learning Node.js
 *   🤝  I'm open to collaborating on Interesting projects
 *   ⚡  I love soccer and anime!
 <a href="https://www.twitter.com/codeyy_dev" target="_blank" rel="noreferrer">
