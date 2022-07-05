@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 ------------------------
 
-I started studying programming at the age of 19. Since I am not the type of person who can come up with groundbreaking ideas, I decided to be the one who can materialize my ideas, so I started programming.
+I started studying programming when I was 19 years old. I am not the type of person who can come up with groundbreaking ideas, so I started programming because I thought I was the one who could embody someone else's ideas.
 
 * 🌍  I'm based in Japan Hyogo
 * 🖥️  See my portfolio at [comming soon...](http://foo)
