@@ -73,17 +73,6 @@ I started studying programming when I was 19 years old. I am not the type of per
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
 </a>
 
-- #### Moblie  
-  
-<p align="left">
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" />
-  </a>
-</p>
-
 - #### Web3
 
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
