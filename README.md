@@ -24,7 +24,7 @@ I started studying programming when I was 19 years old. I am not the type of per
 </div>
 
 <a href="https://github.com/code-yy" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-yy&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-yy&count_private=true&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
 
 ### Skills
@@ -108,10 +108,10 @@ I started studying programming when I was 19 years old. I am not the type of per
   </a>
   
   <a href="http://www.github.com/code-yy">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-yy&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-yy&count_private=true&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
   
   <a href="http://www.github.com/code-yy">
-    <img src="https://activity-graph.herokuapp.com/graph?username=code-yy&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=code-yy&count_private=true&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
   </a>
   
