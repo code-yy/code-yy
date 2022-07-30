@@ -9,7 +9,7 @@ Web Developer
 I started studying programming when I was 19 years old. I am not the type of person who can come up with groundbreaking ideas, so I started programming because I thought I was the one who could embody someone else's ideas.
 
 * 🌍  I'm based in Japan Hyogo
-* 🖥️  See my portfolio at [comming soon...](http://foo)
+* 🖥️  See my portfolio at [code-yy-blog](https://code-yy-blog.vercel.app/)
 * ✉️  You can contact me at [codeyy021@gmail.com](mailto:codeyy021@gmail.com)
 * 🧠  I'm learning Node.js
 * ⚡  Loves soccer and anime
